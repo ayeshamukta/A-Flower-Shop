@@ -1,0 +1,50 @@
+.layout
+{
+    margin: 0px 80px;
+    padding: auto;
+}
+.banner
+{
+    display: flex;
+    gap: 15%;
+    padding: 30px 0px;
+    /* border: 2px rgb(151, 56, 46) solid; */
+    
+}
+#b-background
+{
+    background-color: #f3c4cf;
+    
+}
+#b-content
+{
+    /* border: 2px aquamarine solid; */
+    width: 45%;
+    padding-left: 40px;
+    
+    
+}
+.b-title
+{
+    font-size: 70px;
+    font-weight: bold;
+}
+.paragraph
+{
+    color: rgb(80, 77, 77);
+}
+#b-img
+{
+    /* border: goldenrod solid; */
+    width: 40%;
+    
+}
+.pink-btn
+{
+    background-color: #E55473;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    padding: 8px;
+    
+}
